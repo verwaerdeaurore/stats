@@ -2,7 +2,7 @@
     "name": "nayaholic/stats",
     "description": "librairie statistiques",
     "type": "library",
-    "license": "NIT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Nayaholic\\Stats\\": "src/"
